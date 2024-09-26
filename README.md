@@ -16,10 +16,10 @@
 >> - #### Get Email Notification after closed the ticket:
 
 ## ER-Diagram
-[![ER-Diagram](https://drive.google.com/file/d/1ZZM9axoURjUkRMsoWJs2DcHjdXrId6Yk/view?usp=sharing)]
+[![ER-Diagram](https://drive.google.com/file/d/1ZZM9axoURjUkRMsoWJs2DcHjdXrId6Yk/view?usp=sharing)](https://drive.google.com/file/d/1ZZM9axoURjUkRMsoWJs2DcHjdXrId6Yk/view?usp=sharing)
 
 ## Flow Chart
-[![Flow Chart](https://drive.google.com/file/d/1PuQr5mgB4dIQoFIE-E08wAIYfYxuB6iC/view?usp=sharing)]
+[![Flow Chart](https://drive.google.com/file/d/1PuQr5mgB4dIQoFIE-E08wAIYfYxuB6iC/view?usp=sharing)](https://drive.google.com/file/d/1PuQr5mgB4dIQoFIE-E08wAIYfYxuB6iC/view?usp=sharing)
 
 
 ## Installation commands , open project directory cmd or powershell
